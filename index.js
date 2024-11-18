@@ -1,2 +1,4 @@
 let windowVersion = "10.1.13";
-console.log(windowVersion);
+let updatedVersion ="12.0.1"
+
+console.log(updatedVersion);
